@@ -1,0 +1,52 @@
+10:00:10; 14 June, 2019
+
+*******************
+
+Var Prep Report
+********************************************  
+  
+Unique glyphs removed from MutatorMathTest LightWide:
+
+ 
+Unique glyphs removed from MutatorMathTest LightCondensed:
+em; 
+ 
+Unique glyphs removed from MutatorMathTest BoldCondensed:
+
+ 
+Unique glyphs removed from MutatorMathTest BoldWide:
+em; 
+ 
+
+ ******************* 
+compatibleGlyphs are {'Aacute', 'Q', 'quotesinglbase', 'Adieresis', 'U', 'Y', 'E', 'comma', 'S', 'D', 'quotedblbase', 'dot', 'H', 'I', 'colon', 'L', 'arrowup', 'IJ', 'K', 'Z', 'I.narrow', 'T', 'R', 'P', 'S.closed', 'C', 'J', 'quotedblright', 'N', 'dieresis', 'arrowdown', 'acute', 'X', 'M', 'F', 'B', 'O', 'J.narrow', 'quotedblleft', 'arrowleft', 'semicolon', 'space', 'V', 'W', 'arrowright', 'A', 'G', 'period'}
+ ******************* 
+non-compatible glyphs: 
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest LightWide:
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest LightCondensed:
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest BoldCondensed:
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest BoldWide:
+******************* 
+Guides removed from MutatorMathTest LightWide:
+F; 
+ 
+******************* 
+Guides removed from MutatorMathTest LightCondensed:
+arrowleft; 
+ 
+******************* 
+Guides removed from MutatorMathTest BoldCondensed:
+
+ 
+******************* 
+Guides removed from MutatorMathTest BoldWide:
+
+ 
