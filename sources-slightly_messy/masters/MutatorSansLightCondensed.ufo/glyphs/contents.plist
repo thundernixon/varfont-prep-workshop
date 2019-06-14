@@ -4,6 +4,8 @@
 	<dict>
 		<key>A</key>
 		<string>A_.glif</string>
+		<key>A.longtail</key>
+		<string>A_.longtail.glif</string>
 		<key>Aacute</key>
 		<string>A_acute.glif</string>
 		<key>Adieresis</key>
@@ -46,14 +48,20 @@
 		<string>P_.glif</string>
 		<key>Q</key>
 		<string>Q_.glif</string>
+		<key>Q.longtail</key>
+		<string>Q_.longtail.glif</string>
 		<key>R</key>
 		<string>R_.glif</string>
+		<key>R.longtail</key>
+		<string>R_.longtail.glif</string>
 		<key>S</key>
 		<string>S_.glif</string>
 		<key>S.closed</key>
 		<string>S_.closed.glif</string>
 		<key>T</key>
 		<string>T_.glif</string>
+		<key>T.longtail</key>
+		<string>T_.longtail.glif</string>
 		<key>U</key>
 		<string>U_.glif</string>
 		<key>V</key>

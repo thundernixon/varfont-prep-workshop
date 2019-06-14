@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.longtail" format="2">
+	<advance width="503"/>
+	<outline>
+		<contour>
+			<point x="334" y="-130" type="line"/>
+			<point x="374" y="-130" type="line"/>
+			<point x="275" y="193" type="line"/>
+			<point x="237" y="193" type="line"/>
+		</contour>
+		<component base="O"/>
+	</outline>
+</glyph>
