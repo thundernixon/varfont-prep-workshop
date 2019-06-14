@@ -1,0 +1,59 @@
+11:58:03; 14 June, 2019
+
+*******************
+
+Var Prep Report
+********************************************  
+  
+Unique glyphs removed from MutatorMathTest LightWide:
+
+ 
+Unique glyphs removed from MutatorMathTest LightCondensed:
+R.longtail; em; Q.longtail; A.longtail; T.longtail; 
+ 
+Unique glyphs removed from MutatorMathTest BoldCondensed:
+
+ 
+Unique glyphs removed from MutatorMathTest BoldWide:
+em; B.wider; D.wider; O.wider; 
+ 
+
+ ******************* 
+compatibleGlyphs are {'Aacute', 'Q', 'quotesinglbase', 'Adieresis', 'U', 'Y', 'E', 'comma', 'S', 'D', 'quotedblbase', 'dot', 'H', 'I', 'colon', 'L', 'arrowup', 'IJ', 'K', 'Z', 'I.narrow', 'T', 'R', 'P', 'S.closed', 'C', 'J', 'quotedblright', 'N', 'dieresis', 'arrowdown', 'acute', 'X', 'M', 'F', 'B', 'O', 'J.narrow', 'quotedblleft', 'arrowleft', 'semicolon', 'space', 'V', 'W', 'arrowright', 'A', 'G', 'period'}
+ ******************* 
+non-compatible glyphs: 
+T
+(False, [Fatal] Glyph: "T" + "T"
+[Fatal] Glyph: "T" contains 2 contours | "T" contains 3 contours)
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest LightWide:
+ - T
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest LightCondensed:
+ - T
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest BoldCondensed:
+ - T
+
+ ******************* 
+Non-compatible glyphs removed from MutatorMathTest BoldWide:
+ - T
+******************* 
+Guides removed from MutatorMathTest LightWide:
+F; 
+ 
+******************* 
+Guides removed from MutatorMathTest LightCondensed:
+arrowleft; 
+ 
+******************* 
+Guides removed from MutatorMathTest BoldCondensed:
+
+ 
+******************* 
+Guides removed from MutatorMathTest BoldWide:
+
+ 
